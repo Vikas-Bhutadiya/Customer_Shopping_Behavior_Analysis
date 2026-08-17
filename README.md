@@ -38,7 +38,7 @@ This single-page interactive dashboard explores a customer purchase dataset to a
 ## 📁 Repository Contents
 
 ```
-├── Customer_Behavior_Dashboard.pbix   # Power BI project file
+├── Customer_Behavior_Analysis.pbix   # Power BI project file
 └── README.md
 ```
 
