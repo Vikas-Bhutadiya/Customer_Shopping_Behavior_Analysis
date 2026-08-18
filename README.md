@@ -9,7 +9,7 @@ An end-to-end data analytics project: cleaning raw customer purchase data with *
 
 ---
 
-## 📌 Project Pipeline
+## 📌 Project Pipeline    
 
 ```
 Raw CSV  →  Python (pandas) cleaning & feature engineering  →  PostgreSQL
